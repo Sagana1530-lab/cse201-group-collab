@@ -1,0 +1,18 @@
+{
+  "protocol_version": "0.1",
+  "event_id": "E-20261113T080041Z-user01-9909",
+  "event_type": "change_published",
+  "group_id": "group-01",
+  "person_id": "user01",
+  "created_at": "2026-11-13T08:00:41Z",
+  "related_events": [],
+  "change_id": "C-1",
+  "branch": "people/user01/login-feature",
+  "commit": "d17ffb9",
+  "summary": "新增測試檔案與登入功能",
+  "files_changed": [],
+  "interface_changes": [],
+  "tests_run": [],
+  "known_issues": [],
+  "proposed_for_integration": true
+}
